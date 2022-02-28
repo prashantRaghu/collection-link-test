@@ -9,7 +9,7 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Summary changed'
+      summary: 'Summary changed to something else'
       operationId: listUser
       tags:
         - user
