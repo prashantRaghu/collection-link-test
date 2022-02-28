@@ -1,12 +1,12 @@
 {
     "info": {
         "_postman_id": "007a9319-bdb7-4a75-a0c2-22e9fcb56136",
-        "name": "1",
+        "name": "100",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particular user",
+            "name": "Sample endpoint: Returns details about a particular user sureee",
             "id": "bf18b26c-38c8-4719-9e09-0443d635721b",
             "request": {
                 "method": "GET",
