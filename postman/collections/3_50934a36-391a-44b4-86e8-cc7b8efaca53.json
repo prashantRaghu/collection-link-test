@@ -6,7 +6,7 @@
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particular user",
+            "name": "Sample endpoint: Returns details about a user",
             "id": "7396a555-c4c7-4463-a358-72ef9dfa8d72",
             "request": {
                 "method": "GET",
